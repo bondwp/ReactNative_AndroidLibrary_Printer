@@ -3,7 +3,7 @@ import React, { NativeModules } from 'react-native';
 
 import EPToolkit from 'escpos-printer-toolkit';
 
-const {RNPrinter} = NativeModules;
+const {RNPrinter} = NativeModules.RNUSBPrinter;
 
 var getUSBDeviceList = () => RNPrinter.getUSBDeviceList();
 
