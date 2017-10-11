@@ -25,7 +25,7 @@ public class RNPrinterModule extends ReactContextBaseJavaModule {
 
     @Override
     public String getName() {
-        return "RNPrinter";
+        return "RNUSBPrinter";
     }
 
 
