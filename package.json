@@ -18,7 +18,7 @@
   },
   "peerDependencies": {
     "react-native": ">=0.38.0"
-  }
+  },
   "deprecated": false,
   "description": "a usb thermal printer library for android ",
   "devDependencies": {},
