@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-library-esc-pos-printer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Bondwp322",
   "private": false,
   "license": "Unlicense",
@@ -17,7 +17,7 @@
     "escpos-printer-toolkit": "^1.0.8"
   },
   "peerDependencies": {
-    "react-native": ">=0.38.0"
+    "react-native": "^0.38.0"
   },
   "deprecated": false,
   "description": "a usb thermal printer library for android ",
