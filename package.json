@@ -1,0 +1,37 @@
+{
+  "name": "react-native-android-library-esc-pos-printer",
+  "version": "0.0.1",
+  "author": "Bondwp322",
+  "private": false,
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bondwp/ReactNative_AndroidLibrary_Printer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bondwp/ReactNative_AndroidLibrary_Printer.git/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "buffer": "^5.0.7",
+    "escpos-printer-toolkit": "^1.0.8"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  }
+  "deprecated": false,
+  "description": "a usb thermal printer library for android ",
+  "devDependencies": {},
+  "homepage": "https://github.com/bondwp/ReactNative_AndroidLibrary_Printer.git",
+  "keywords": [
+    "react-native",
+    "android",
+    "library",
+    "printer"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "main": "index.js",
+}
